@@ -13,9 +13,11 @@ public class Test1 {
         // Prompt user for the second number
         System.out.print("Enter the second number: ");
         double num2 = scanner.nextDouble();
+    	System.out.println("sundararao");
 
         // Perform the addition
         double sum = num1 + num2;
+        
 
         // Display the result
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);

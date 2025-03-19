@@ -8,6 +8,7 @@ public class Test2 {
         // Prompt user for the first number
         System.out.print("Enter the first number: ");
     	System.out.println("sundararao");
+    	System.out.println("sundararao1");
         double num1 = scanner.nextDouble();
 
         // Prompt user for the second number
